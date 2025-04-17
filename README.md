@@ -23,6 +23,9 @@ The questions cover a range of Python fundamentals and basic problem-solving, in
 * ✂️ String & List Manipulation
 * 🧩 Basic Algorithms (Anagrams, Common Prefix, List Flattening, etc.)
 
-```
-Together with my teammate, we successfully secured first place in this competition, which took place during the second week of our university journey. Despite being early in our academic careers, we demonstrated strong collaboration, adaptability, and problem-solving skills, allowing us to excel among participants and make an impactful start to our degree program.
-```
+### 🥇 First Place
+
+During just the **second week** of our university journey, my teammate and I participated in a beginner-level coding competition.  
+With strong teamwork, quick learning, and a lot of enthusiasm, we managed to secure **1st place** among a group of fresh students just stepping into the world of programming.
+
+> _"A small win, but a powerful start to an exciting journey in tech."_ 🚀
